@@ -2,7 +2,7 @@
 
 This simulator provides a realistic and interactive way to visualize the flight of a golf ball under various conditions.
 
-![Preview Screenshot](screenshots/golf_flight_sim_3d_1.png.png)
+![Preview Screenshot](screenshots/golf_flight_sim_3d_1.png)
 
 ## Building
 

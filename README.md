@@ -20,7 +20,7 @@ cmake --build .
 
 [imgui](https://github.com/ocornut/imgui) (GUI)<br>
 [glfw](https://github.com/glfw/glfw) (Window/Input Handling)<br>
-[glad](https://github.com/Dav1dde/glad) (OpenGL Extension Handling)<br>
+[glad](https://github.com/Dav1dde/glad) (OpenGL Header Generation)<br>
 [spdlog](https://github.com/gabime/spdlog) (Logging)<br>
 [glm](https://github.com/g-truc/glm) (Matrix/Vector Math)<br>
 [tracy](https://github.com/wolfpld/tracy) (Profiling)<br>
